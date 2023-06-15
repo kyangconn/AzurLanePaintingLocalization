@@ -28,11 +28,7 @@
 
 <details>
 <summary><code><strong>无法翻译项目：</strong></code></summary>
->qiabayefu_2_n
->
->sairenboss14_jz
->
->dafeng_2_shophx
+qiabayefu_2_n, sairenboss14_jz, dafeng_2_shophx
 
 </details>
 
