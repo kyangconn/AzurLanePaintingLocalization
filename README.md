@@ -29,6 +29,7 @@
 >
 >2023/07/02 6/29更新，还好很多东西都没有改。
 
+</details>
 
 <details>
 <summary><code><strong>无法翻译项目：</strong></code></summary>
