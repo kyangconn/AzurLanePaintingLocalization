@@ -6,8 +6,10 @@
 
 此项目为上述项目分支，采用不同更新方式，根据程序显示来翻译内容，与主项目存在差别。请注意选择。
 
-当前为2023/06/01更新解包版本，请注意时效性。
+当前为2023/06/29更新解包版本，请注意时效性。
 
+<details>
+<summary><code><strong>历史更新：</strong></code></summary>
 >2023/01/13 12/22版本更新完成，剩余devil, qiabayefu_2_n, sairenboss14_jz无翻译。
 >
 >2023/01/18 1/18版本新增翻译完成，无新增无法翻译。
@@ -24,6 +26,8 @@
 >2023/05/25 5/25版本更新，把devil和tower翻译了，剧情最后有提到托瓦，大概就是tower了。
 >
 >2023/06/01 6/1皮肤更新，常规更新
+>
+>2023/07/02 6/29更新，还好很多东西都没有改。
 
 
 <details>
@@ -113,10 +117,7 @@ qiabayefu_2_n, sairenboss14_jz, dafeng_2_shophx
 @[Goodjooy](https://github.com/Goodjooy)
 
 @[OwKali](https://github.com/OwKali)
-<<<<<<< HEAD
 
 @[OSSSY152](https://github.com/OSSSY152)
 
 可能的issues和requests。
-=======
->>>>>>> 5b69713afa20d3f85bab477004ea06781fe3aff3
