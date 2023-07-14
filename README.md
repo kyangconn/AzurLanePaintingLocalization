@@ -6,7 +6,7 @@
 
 此项目为上述项目分支，采用不同更新方式，根据程序显示来翻译内容，与主项目存在差别。请注意选择。
 
-当前为2023/06/29更新解包版本，请注意时效性。
+当前为2023/067/13更新解包版本，请注意时效性。
 
 <details>
 <summary><code><strong>历史更新：</strong></code></summary>
@@ -28,12 +28,14 @@
 >2023/06/01 6/1皮肤更新，常规更新
 >
 >2023/07/02 6/29更新，还好很多东西都没有改。
+>
+>2023/07/14 7/13更新，把前面弄错的修了一下，现在没有%了。
 
 </details>
 
 <details>
 <summary><code><strong>无法翻译项目：</strong></code></summary>
-qiabayefu_2_n, sairenboss14_jz, dafeng_2_shophx
+qiabayefu_2_n, sairenboss14_jz, dafeng_2_shophx, lundun_3bg
 
 </details>
 
