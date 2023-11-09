@@ -83,6 +83,9 @@ qiabayefu_2_n, sairenboss14_jz, dafeng_2_shophx, lundun_3bg, kaiersheng_2bg
 | hemin_3                | 赫敏.皮肤1 温柔的纯白天使                                    | 此为赫敏第**1**个皮肤                                                                       |
 | hemin_2                | 赫敏.皮肤2 纯白的悠闲假日                                    | 虽然一般来说后缀为"2"会排在"3"之前, 但此为赫敏时间顺序上第**2**个实装的皮肤                 |
 | hemin_2_n              | 赫敏.皮肤2 纯白的悠闲假日【无背景】                          | 此立绘相比`hemin_2`缺少部分背景                                                             |
+| hemin_5                | 赫敏.皮肤4 百草堂少女 背景                                   | 赫敏第4个皮肤，但缺少人物                                                                   |
+| hemin_5_n              | 赫敏.皮肤4 百草堂少女【无背景】                              | 此立绘相比`hemin_5`缺少背景                                                                 |
+| hemin_5_rw             | 赫敏.皮肤4 百草堂少女 人物                                   | 此立绘只能与`hemin_5`拼合成完整立绘，即只有人物                                             |
 | hemin_pt               | 赫敏【插画】                                                 | 此为赫敏在活动pt兑换界面出现的立绘                                                          |
 | huangjiafangzhou_alter | 皇家方舟·META                                                | 此角色名为"皇家方舟·META"，是META阵营角色                                                   |
 | kelifulan              | 克利夫兰                                                     | 是克爹啊啊啊啊啊（拖走                                                                      |
