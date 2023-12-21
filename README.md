@@ -6,7 +6,7 @@
 
 此项目为上述项目分支，采用不同更新方式，根据程序显示来翻译内容，与主项目存在差别。请注意选择。
 
-当前为2023/12/7更新解包版本，请注意时效性。
+当前为2023/12/21早上更新解包版本，请注意时效性。
 
 <details>
 <summary><code><strong>历史更新：</strong></code></summary>
@@ -44,12 +44,14 @@
 >2023/11/23 11/23联动闪乱神乐，更新了很多，这次的命名也是重量级，居然还带`_ex`后缀的，没法翻译的就只有带`_s`的，估计开服之后就知道什么意思了。
 >
 >2023/12/7 12/7殿堂更新，基洛夫META更新。
+>
+>2023/12/21 21号白鹰大活，更新了一些船，
 
 </details>
 
 <details>
 <summary><code><strong>无法翻译项目：</strong></code></summary>
-qiabayefu_2_n, sairenboss14_jz, dafeng_2_shophx, lundun_3bg, kaiersheng_2bg
+qiabayefu_2_n, sairenboss14_jz, dafeng_2_shophx, lundun_3bg, kaiersheng_2bg,
 
 </details>
 
